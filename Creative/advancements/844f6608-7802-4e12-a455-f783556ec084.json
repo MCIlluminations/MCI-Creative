@@ -1,0 +1,15 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-01-09 00:44:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-09 00:44:11 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3700
+}
